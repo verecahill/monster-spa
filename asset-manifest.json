@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-spa/static/css/main.aa62dcc0.css",
+    "main.js": "/monsters-spa/static/js/main.7fdc34be.js",
+    "static/js/787.fbb2c275.chunk.js": "/monsters-spa/static/js/787.fbb2c275.chunk.js",
+    "index.html": "/monsters-spa/index.html",
+    "main.aa62dcc0.css.map": "/monsters-spa/static/css/main.aa62dcc0.css.map",
+    "main.7fdc34be.js.map": "/monsters-spa/static/js/main.7fdc34be.js.map",
+    "787.fbb2c275.chunk.js.map": "/monsters-spa/static/js/787.fbb2c275.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa62dcc0.css",
+    "static/js/main.7fdc34be.js"
+  ]
+}
